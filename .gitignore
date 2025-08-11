@@ -1,0 +1,69 @@
+# Talos generated configurations
+talos/configs/
+*.yaml.bak
+
+# Kubernetes secrets and sensitive files
+*secret*
+*password*
+*token*
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+dist/
+build/
+target/
+*.jar
+*.war
+*.ear
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+vendor/
+
+# Helm
+charts/*.tgz
+
+# Backup files
+*.backup
+*.bak
+
+# Local development overrides
+docker-compose.override.yml
+values-local.yaml
+local-config.yaml
