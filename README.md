@@ -1,4 +1,4 @@
-# 🏗️ Pi Cluster - Talos Kubernetes Homelab 
+# 🏗️ Pi Cluster - Talos Kubernetes Homelab 
 
 ## 🚧 Work in progress 🚧
 
