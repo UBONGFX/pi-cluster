@@ -1,4 +1,6 @@
-# 🚧 Pi Cluster - Talos Kubernetes Homelab - Work in progress 🚧
+# 🏗️ Pi Cluster - Talos Kubernetes Homelab 
+
+## 🚧 Work in progress 🚧
 
 A complete Kubernetes homelab setup running on 4 Raspberry Pi 5 devices with Talos Linux, featuring GitOps deployment with ArgoCD.
 
